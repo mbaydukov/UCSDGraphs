@@ -149,7 +149,8 @@ public abstract class Graph {
 	 */
 	public abstract String adjacencyString();
 
-	
+    
+
 	// The next methods implement labeled vertices.
 	// Basic graphs may or may not have labeled vertices.
 	
